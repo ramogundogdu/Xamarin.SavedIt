@@ -1,0 +1,16 @@
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\SavedItXF.dll
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\SavedItXF.pdb
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\SavedItXF.dll
+c:\users\gsg-nb\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\SavedItXF.pdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\MainPage.xaml.g.cs
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\DetailPage.xaml.g.cs
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\SavedItXF.dll.mdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\SavedItXF.dll.mdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\SavedItXF.dll.mdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\SavedItXF.dll.mdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\obj\Debug\SavedItXF.dll.mdb
+C:\Users\GSG-NB\documents\visual studio 2015\Projects\SavedItXF\SavedItXF\SavedItXF\bin\Debug\SavedItXF.dll.mdb
